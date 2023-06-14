@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"MaRstore","c":"MaRstore","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"MaRstore","c":"MaRstore","l":"MaRstore()","u":"%3Cinit%3E()"}];updateSearchResults();
